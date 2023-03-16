@@ -1,0 +1,6 @@
+- entrance pupil
+- focal plane mask
+- Lyot stop
+- detector optics
+- detector
+- wavefront sensor

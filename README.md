@@ -1,1 +1,1 @@
-# git-training-advanced2
+git_observatory
